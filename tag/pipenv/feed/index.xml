@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pipenv</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Test &#38; Automation Consultant</description>
+	<lastBuildDate>Thu, 19 Mar 2020 00:25:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/02/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>pipenv</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>pipenv</title>
+		<link>./../../../pipenv/index.html</link>
+					<comments>./../../../pipenv/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2020 20:54:48 +0000</pubDate>
+				<category><![CDATA[Python Features]]></category>
+		<category><![CDATA[pipenv]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=746</guid>
+
+					<description><![CDATA[<p>Why Pipenv? Pipenv&#160;is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.&#160;It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your&#160;Pipfile&#160;as you install/uninstall packages. It also generates the ever-important&#160;Pipfile.lock, which is used to replicate same &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../pipenv/index.html"> <span class="screen-reader-text">pipenv</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../pipenv/index.html">pipenv</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../pipenv/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

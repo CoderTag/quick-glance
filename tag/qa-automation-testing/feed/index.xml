@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>QA-Automation-Testing</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Test &#38; Automation Consultant</description>
+	<lastBuildDate>Fri, 21 May 2021 08:46:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/02/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>QA-Automation-Testing</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Service Virtualization/Virtualisation</title>
+		<link>./../../../service-virtualization-virtualisation/index.html</link>
+					<comments>./../../../service-virtualization-virtualisation/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 07:48:11 +0000</pubDate>
+				<category><![CDATA[QA & DevOps]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[QA-Automation-Testing]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=894</guid>
+
+					<description><![CDATA[<p>In Service virtualisation we emulate the behavior of specific components in heterogeneous component-based applications such as API-driven applications, cloud-based applications and service-oriented architectures. This method is used to test Monolithe application. Say the component under test has dependency on other component. But due to some reason (like Not yet completed,Still evolving, Controlled by a third-party &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../service-virtualization-virtualisation/index.html"> <span class="screen-reader-text">Service Virtualization/Virtualisation</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../service-virtualization-virtualisation/index.html">Service Virtualization/Virtualisation</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../service-virtualization-virtualisation/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Testing Microservices</title>
+		<link>./../../../testing-microservices/index.html</link>
+					<comments>./../../../testing-microservices/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 07:22:06 +0000</pubDate>
+				<category><![CDATA[QA & DevOps]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[QA-Automation-Testing]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=887</guid>
+
+					<description><![CDATA[<p>Differennces between Monolithe and Microservice Architecture Microservice architecture relies more on over-the-wire (remote) dependencies and less on in-process components We need to manage the interdependent components in order to test microservices in a cost and time effective way. We can use test doubles that pretend to be real dependencies for the purpose of the test. &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../testing-microservices/index.html"> <span class="screen-reader-text">Testing Microservices</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../testing-microservices/index.html">Testing Microservices</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../testing-microservices/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

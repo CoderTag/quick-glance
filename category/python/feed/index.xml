@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Python</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Test &#38; Automation Consultant</description>
+	<lastBuildDate>Mon, 27 Jul 2020 14:10:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/02/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Python</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Python BDD Framework  &#8211; Behavior</title>
+		<link>./../../../python-bdd-framework-behavior/index.html</link>
+					<comments>./../../../python-bdd-framework-behavior/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Sat, 09 May 2020 11:10:51 +0000</pubDate>
+				<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[BDD]]></category>
+		<category><![CDATA[Gherkin]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1105</guid>
+
+					<description><![CDATA[<p>BDD A behavior is how a feature operates within a well-defined scenario of inputs, actions, and outcomes. One of the most common behavior spec languages is Gherkin. Test frameworks can easily automate these behavior specs by &#8220;gluing&#8221; step texts to code implementations. Products can exhibit countless behaviors, such as: Submitting forms on a website Searching &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../python-bdd-framework-behavior/index.html"> <span class="screen-reader-text">Python BDD Framework  &#8211; Behavior</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../python-bdd-framework-behavior/index.html">Python BDD Framework  &#8211; Behavior</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../python-bdd-framework-behavior/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>REST API Security</title>
+		<link>./../../../rest-api-security/index.html</link>
+					<comments>./../../../rest-api-security/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 11:19:23 +0000</pubDate>
+				<category><![CDATA[API testing with Python]]></category>
+		<category><![CDATA[RESTful API]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1086</guid>
+
+					<description><![CDATA[<p>What is REST API? DIfference between SOAP and REST? </p>
+<p>The post <a rel="nofollow" href="./../../../rest-api-security/index.html">REST API Security</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../rest-api-security/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>API Mocking with Flask and Pytest</title>
+		<link>./../../../api-mocking-with-flask-and-pytest/index.html</link>
+					<comments>./../../../api-mocking-with-flask-and-pytest/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 10:25:05 +0000</pubDate>
+				<category><![CDATA[API testing with Python]]></category>
+		<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Requests]]></category>
+		<category><![CDATA[RESTful API]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1020</guid>
+
+					<description><![CDATA[<p>A scenario where developers are working on a project and their API is not ready for test. In that case test developer create a mock server. The purpose of this server is to expose all those upcoming APIs. Automation development can use these mock APIs to continue their automation development. They develop TDD and validate &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../api-mocking-with-flask-and-pytest/index.html"> <span class="screen-reader-text">API Mocking with Flask and Pytest</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../api-mocking-with-flask-and-pytest/index.html">API Mocking with Flask and Pytest</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../api-mocking-with-flask-and-pytest/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python &#038; CSV</title>
+		<link>./../../../python-csv/index.html</link>
+					<comments>./../../../python-csv/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2020 09:23:26 +0000</pubDate>
+				<category><![CDATA[Python Features]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=992</guid>
+
+					<description><![CDATA[<p>Difference between normal read() and csv.reader() When we open a csv file and read it, the content of the file gets loaded. But in the case of csv.reader() it provide us an iterator object. reader() method use something called dialect with some pre-set parameter, like what it expect from csv file, like comma. By default &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../python-csv/index.html"> <span class="screen-reader-text">Python &#038; CSV</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../python-csv/index.html">Python &#038; CSV</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../python-csv/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Beautiful Soup</title>
+		<link>./../../../beautiful-soup/index.html</link>
+					<comments>./../../../beautiful-soup/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 18:53:53 +0000</pubDate>
+				<category><![CDATA[API testing with Python]]></category>
+		<category><![CDATA[API Testing]]></category>
+		<category><![CDATA[Beautiful Soup]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Requests]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=872</guid>
+
+					<description><![CDATA[<p>Configure Automation Environment with Beautifulsoup After installing Beautifulsoup we need to install a parser to parse our html. If we parse perfectly formatted html than all parser parse almost in the same way. But if the html page is not formatted properly, there is mistake or gap in the html document, in that case different &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../beautiful-soup/index.html"> <span class="screen-reader-text">Beautiful Soup</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../beautiful-soup/index.html">Beautiful Soup</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../beautiful-soup/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python Requests Library</title>
+		<link>./../../../python-requests-library/index.html</link>
+					<comments>./../../../python-requests-library/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2020 00:37:55 +0000</pubDate>
+				<category><![CDATA[API testing with Python]]></category>
+		<category><![CDATA[API Testing]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Requests]]></category>
+		<category><![CDATA[RESTful API]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=800</guid>
+
+					<description><![CDATA[<p>Requests Library Introduction With requests library we can pull information from website. But we can not parse the content of website. For that we need library like Beautiful Soup. There is a new parser names requests-html written by same person who wrote requests library.Here we get response object resp_obj. Different between content and text attribute &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../python-requests-library/index.html"> <span class="screen-reader-text">Python Requests Library</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../python-requests-library/index.html">Python Requests Library</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../python-requests-library/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>pipenv</title>
+		<link>./../../../pipenv/index.html</link>
+					<comments>./../../../pipenv/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2020 20:54:48 +0000</pubDate>
+				<category><![CDATA[Python Features]]></category>
+		<category><![CDATA[pipenv]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=746</guid>
+
+					<description><![CDATA[<p>Why Pipenv? Pipenv&#160;is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.&#160;It automatically creates and manages a virtualenv for your projects, as well as adds/removes packages from your&#160;Pipfile&#160;as you install/uninstall packages. It also generates the ever-important&#160;Pipfile.lock, which is used to replicate same &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../pipenv/index.html"> <span class="screen-reader-text">pipenv</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../pipenv/index.html">pipenv</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../pipenv/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>REST API (Representational state transfer) Introduction</title>
+		<link>./../../../rest-api-representational-state-transfer-introduction/index.html</link>
+					<comments>./../../../rest-api-representational-state-transfer-introduction/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2020 23:23:58 +0000</pubDate>
+				<category><![CDATA[API testing with Python]]></category>
+		<category><![CDATA[RESTful API]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=535</guid>
+
+					<description><![CDATA[<p>What is REST API? DIfference between SOAP and REST? </p>
+<p>The post <a rel="nofollow" href="./../../../rest-api-representational-state-transfer-introduction/index.html">REST API (Representational state transfer) Introduction</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../rest-api-representational-state-transfer-introduction/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pytest Fixture</title>
+		<link>./../../../pytest-fixture/index.html</link>
+					<comments>./../../../pytest-fixture/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 10:12:03 +0000</pubDate>
+				<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=284</guid>
+
+					<description><![CDATA[<p>What is Pytest fixture</p>
+<p>The post <a rel="nofollow" href="./../../../pytest-fixture/index.html">Pytest Fixture</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../pytest-fixture/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Selenium Tutorial &#8211; I</title>
+		<link>./../../../what-is-selenium/index.html</link>
+					<comments>./../../../what-is-selenium/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 12:38:35 +0000</pubDate>
+				<category><![CDATA[Selenium with Python]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=189</guid>
+
+					<description><![CDATA[<p>What is Selenium Description starts here Description starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription starts hereDescription &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../what-is-selenium/index.html"> <span class="screen-reader-text">Selenium Tutorial &#8211; I</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../what-is-selenium/index.html">Selenium Tutorial &#8211; I</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../what-is-selenium/feed/index.html</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

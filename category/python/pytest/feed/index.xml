@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pytest</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Test &#38; Automation Consultant</description>
+	<lastBuildDate>Mon, 27 Jul 2020 14:10:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2020/02/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Pytest</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Python BDD Framework  &#8211; Behavior</title>
+		<link>./../../../../python-bdd-framework-behavior/index.html</link>
+					<comments>./../../../../python-bdd-framework-behavior/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Sat, 09 May 2020 11:10:51 +0000</pubDate>
+				<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[BDD]]></category>
+		<category><![CDATA[Gherkin]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=1105</guid>
+
+					<description><![CDATA[<p>BDD A behavior is how a feature operates within a well-defined scenario of inputs, actions, and outcomes. One of the most common behavior spec languages is Gherkin. Test frameworks can easily automate these behavior specs by &#8220;gluing&#8221; step texts to code implementations. Products can exhibit countless behaviors, such as: Submitting forms on a website Searching &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../../python-bdd-framework-behavior/index.html"> <span class="screen-reader-text">Python BDD Framework  &#8211; Behavior</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../../python-bdd-framework-behavior/index.html">Python BDD Framework  &#8211; Behavior</a> appeared first on <a rel="nofollow" href="./../../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../../python-bdd-framework-behavior/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pytest Fixture</title>
+		<link>./../../../../pytest-fixture/index.html</link>
+					<comments>./../../../../pytest-fixture/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 10:12:03 +0000</pubDate>
+				<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=284</guid>
+
+					<description><![CDATA[<p>What is Pytest fixture</p>
+<p>The post <a rel="nofollow" href="./../../../../pytest-fixture/index.html">Pytest Fixture</a> appeared first on <a rel="nofollow" href="./../../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../../pytest-fixture/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pytest Introduction</title>
+		<link>./../../../../what-is-pytest/index.html</link>
+					<comments>./../../../../what-is-pytest/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 11:42:38 +0000</pubDate>
+				<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=160</guid>
+
+					<description><![CDATA[<p>What is Pytest? How does it makes automation in Python easy.</p>
+<p>The post <a rel="nofollow" href="./../../../../what-is-pytest/index.html">Pytest Introduction</a> appeared first on <a rel="nofollow" href="./../../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../../what-is-pytest/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

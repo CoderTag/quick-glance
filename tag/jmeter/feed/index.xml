@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>JMeter</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Test &#38; Automation Consultant</description>
+	<lastBuildDate>Sat, 05 Sep 2020 02:24:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/02/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>JMeter</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>JMeter Introduction</title>
+		<link>./../../../jmeter-introduction/index.html</link>
+					<comments>./../../../jmeter-introduction/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2020 10:44:06 +0000</pubDate>
+				<category><![CDATA[JMeter]]></category>
+		<category><![CDATA[Java]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=725</guid>
+
+					<description><![CDATA[<p>JMeter is Java application so platform independent. Install &#38; Configure Java should be installed. >> java -version Download Apache JMeter and unzip/untar the zip file Include JMeter/bin/jmeter executable in system path and start Jmeter >>jmeter Test Plan: A container which contains all test elements required to perform tests. Elements like request, graph, listeners.Work Bench: Here &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../jmeter-introduction/index.html"> <span class="screen-reader-text">JMeter Introduction</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../jmeter-introduction/index.html">JMeter Introduction</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../jmeter-introduction/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

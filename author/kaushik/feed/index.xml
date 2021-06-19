@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kaushik</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Test &#38; Automation Consultant</description>
+	<lastBuildDate>Fri, 21 May 2021 10:59:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/02/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>kaushik</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MongoDB</title>
+		<link>./../../../mongodb/index.html</link>
+					<comments>./../../../mongodb/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Sat, 25 Jul 2020 00:46:25 +0000</pubDate>
+				<category><![CDATA[Storage & Cloud]]></category>
+		<category><![CDATA[mongodb]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1258</guid>
+
+					<description><![CDATA[<p>Install and start mongodb Introduction to mongo db Collections Document Document Filtering Document Update Document Delete Projection limit( ) and skip( ) method sort() method Indexing</p>
+<p>The post <a rel="nofollow" href="./../../../mongodb/index.html">MongoDB</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../mongodb/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Docker-III</title>
+		<link>./../../../docker-iii/index.html</link>
+					<comments>./../../../docker-iii/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2020 08:14:27 +0000</pubDate>
+				<category><![CDATA[QA & DevOps]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[docker]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1249</guid>
+
+					<description><![CDATA[<p>Images Images are made up of multiple layers that get stacked on top of each other and represented as a single object. Inside of the image is a cut-down OS and all of the files and dependencies required to run an application. Images are like stopped containers.We can stop a container and create a new &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../docker-iii/index.html"> <span class="screen-reader-text">Docker-III</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../docker-iii/index.html">Docker-III</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../docker-iii/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Docker Part-II: History</title>
+		<link>./../../../docker-part-ii/index.html</link>
+					<comments>./../../../docker-part-ii/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 06:45:57 +0000</pubDate>
+				<category><![CDATA[QA & DevOps]]></category>
+		<category><![CDATA[docker]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1196</guid>
+
+					<description><![CDATA[<p>How container arrive? In the past used to run only one application per server (Windows/Linux) as didn’t have the technologies to safely and securely run multiple applications on the same server.VM was a game changer.But VM requires dedicated OS is a major flaw. Every OS consumes CPU, RAM and storage that could otherwise be used &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../docker-part-ii/index.html"> <span class="screen-reader-text">Docker Part-II: History</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../docker-part-ii/index.html">Docker Part-II: History</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../docker-part-ii/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Docker Part-I : Introduction &#038; Installation</title>
+		<link>./../../../docker-container/index.html</link>
+					<comments>./../../../docker-container/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Fri, 22 May 2020 11:00:17 +0000</pubDate>
+				<category><![CDATA[QA & DevOps]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[docker]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1168</guid>
+
+					<description><![CDATA[<p>Step-1: Install Docker Community Edition (CE) on Ubuntu 20.04 The Docker installation package available in the official Ubuntu repository may not be the latest version. To ensure we get the latest version, we’ll install Docker from the official Docker repository. To do that, we’ll add a new package source, add the GPG key from Docker &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../docker-container/index.html"> <span class="screen-reader-text">Docker Part-I : Introduction &#038; Installation</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../docker-container/index.html">Docker Part-I : Introduction &#038; Installation</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../docker-container/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python BDD Framework  &#8211; Behavior</title>
+		<link>./../../../python-bdd-framework-behavior/index.html</link>
+					<comments>./../../../python-bdd-framework-behavior/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Sat, 09 May 2020 11:10:51 +0000</pubDate>
+				<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[BDD]]></category>
+		<category><![CDATA[Gherkin]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1105</guid>
+
+					<description><![CDATA[<p>BDD A behavior is how a feature operates within a well-defined scenario of inputs, actions, and outcomes. One of the most common behavior spec languages is Gherkin. Test frameworks can easily automate these behavior specs by &#8220;gluing&#8221; step texts to code implementations. Products can exhibit countless behaviors, such as: Submitting forms on a website Searching &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../python-bdd-framework-behavior/index.html"> <span class="screen-reader-text">Python BDD Framework  &#8211; Behavior</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../python-bdd-framework-behavior/index.html">Python BDD Framework  &#8211; Behavior</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../python-bdd-framework-behavior/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Agile Methodology</title>
+		<link>./../../../agile-methodology/index.html</link>
+					<comments>./../../../agile-methodology/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2020 07:58:41 +0000</pubDate>
+				<category><![CDATA[QA & DevOps]]></category>
+		<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Jira]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1101</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="./../../../agile-methodology/index.html">Agile Methodology</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../agile-methodology/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>REST API Security</title>
+		<link>./../../../rest-api-security/index.html</link>
+					<comments>./../../../rest-api-security/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 11:19:23 +0000</pubDate>
+				<category><![CDATA[API testing with Python]]></category>
+		<category><![CDATA[RESTful API]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1086</guid>
+
+					<description><![CDATA[<p>What is REST API? DIfference between SOAP and REST? </p>
+<p>The post <a rel="nofollow" href="./../../../rest-api-security/index.html">REST API Security</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../rest-api-security/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>API Mocking with Flask and Pytest</title>
+		<link>./../../../api-mocking-with-flask-and-pytest/index.html</link>
+					<comments>./../../../api-mocking-with-flask-and-pytest/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 10:25:05 +0000</pubDate>
+				<category><![CDATA[API testing with Python]]></category>
+		<category><![CDATA[Pytest]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Requests]]></category>
+		<category><![CDATA[RESTful API]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1020</guid>
+
+					<description><![CDATA[<p>A scenario where developers are working on a project and their API is not ready for test. In that case test developer create a mock server. The purpose of this server is to expose all those upcoming APIs. Automation development can use these mock APIs to continue their automation development. They develop TDD and validate &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../api-mocking-with-flask-and-pytest/index.html"> <span class="screen-reader-text">API Mocking with Flask and Pytest</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../api-mocking-with-flask-and-pytest/index.html">API Mocking with Flask and Pytest</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../api-mocking-with-flask-and-pytest/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python &#038; CSV</title>
+		<link>./../../../python-csv/index.html</link>
+					<comments>./../../../python-csv/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2020 09:23:26 +0000</pubDate>
+				<category><![CDATA[Python Features]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=992</guid>
+
+					<description><![CDATA[<p>Difference between normal read() and csv.reader() When we open a csv file and read it, the content of the file gets loaded. But in the case of csv.reader() it provide us an iterator object. reader() method use something called dialect with some pre-set parameter, like what it expect from csv file, like comma. By default &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../python-csv/index.html"> <span class="screen-reader-text">Python &#038; CSV</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../python-csv/index.html">Python &#038; CSV</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../python-csv/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Service Virtualization/Virtualisation</title>
+		<link>./../../../service-virtualization-virtualisation/index.html</link>
+					<comments>./../../../service-virtualization-virtualisation/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 07:48:11 +0000</pubDate>
+				<category><![CDATA[QA & DevOps]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[QA-Automation-Testing]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=894</guid>
+
+					<description><![CDATA[<p>In Service virtualisation we emulate the behavior of specific components in heterogeneous component-based applications such as API-driven applications, cloud-based applications and service-oriented architectures. This method is used to test Monolithe application. Say the component under test has dependency on other component. But due to some reason (like Not yet completed,Still evolving, Controlled by a third-party &#8230;</p>
+<p class="read-more"> <a class="" href="./../../../service-virtualization-virtualisation/index.html"> <span class="screen-reader-text">Service Virtualization/Virtualisation</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../service-virtualization-virtualisation/index.html">Service Virtualization/Virtualisation</a> appeared first on <a rel="nofollow" href="./../../../index.html"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../../../service-virtualization-virtualisation/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for 	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Test &#38; Automation Consultant</description>
+	<lastBuildDate>Fri, 14 Feb 2020 14:41:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Comment on Selenium Tutorial &#8211; I by kaushik		</title>
+		<link>./../../what-is-selenium/index.html#comment-6</link>
+
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 22:46:21 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=189#comment-6</guid>
+
+					<description><![CDATA[comment from visitors]]></description>
+			<content:encoded><![CDATA[<p>comment from visitors</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Selenium Tutorial &#8211; I by kaushik		</title>
+		<link>./../../what-is-selenium/index.html#comment-5</link>
+
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 22:44:13 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=189#comment-5</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../what-is-selenium/index.html#comment-4&quot;&gt;kaushik&lt;/a&gt;.
+
+reply]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../what-is-selenium/index.html#comment-4">kaushik</a>.</p>
+<p>reply</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Selenium Tutorial &#8211; I by kaushik		</title>
+		<link>./../../what-is-selenium/index.html#comment-4</link>
+
+		<dc:creator><![CDATA[kaushik]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 22:43:36 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=189#comment-4</guid>
+
+					<description><![CDATA[csds]]></description>
+			<content:encoded><![CDATA[<p>csds</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
